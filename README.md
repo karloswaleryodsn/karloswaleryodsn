@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there :pencil:
+Eu sou karlos waleryo,sou um programador front end,e estou aprendendo a criar projetos com:
+<br>
+<br>
 
-<!--
-**karloswaleryodsn/karloswaleryodsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-Here are some ideas to get you started:
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Atualmente iniciei no java script e no react,
+ busco adquerir novos conhecimento ao longo da minha carreira de programação,
+ como primeiro objetivo ser um programador full stack melhorar meus conhecimentos e minhas habilidades
+ cada vez mais.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karloswaleryodsn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karloswaleryodsn)](https://github.com/anuraghazra/github-readme-stats)
