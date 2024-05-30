@@ -9,7 +9,7 @@ Eu sou karlos waleryo,sou um programador front end,e estou aprendendo a criar pr
 
  - Atualmente iniciei no java script e no react,
  busco adquerir novos conhecimento ao longo da minha carreira de programação,
- como primeiro objetivo ser um programador full stack melhorar meus conhecimentos e minhas habilidades
+ como primeiro objetivo ser um programador full stack,melhorar meus conhecimentos e minhas habilidades
  cada vez mais.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karloswaleryodsn)](https://github.com/anuraghazra/github-readme-stats)
