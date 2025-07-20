@@ -54,4 +54,5 @@ Atualmente, estou me dedicando à construção de projetos próprios, reforçand
 
 🔗 Vamos nos conectar? 
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos-waleryo-31119a2b0/)
